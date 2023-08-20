@@ -1,2 +1,2 @@
-# pera-fare-calculator
+# pera-fee-calculator
 for peraichi
